@@ -1,0 +1,6 @@
+[postgres]
+host = "database-1.cj4jm1b9clx6.ap-northeast-1.rds.amazonaws.com"
+port = 5432
+dbname = "userdetails"
+user = "pavan"
+password = "Pavan1997"
