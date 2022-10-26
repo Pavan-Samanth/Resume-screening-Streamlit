@@ -1,6 +1,6 @@
 # Resume-screening-Streamlit
 
-## First install virtual environment pip install venv
+First install virtual environment pip install venv
 
 Activating virtual environment : python -m venv (envname)
 
